@@ -1,0 +1,12 @@
+name: kitpvp
+version: 1.0
+description: kitpvp test plugin
+main: me.bmt.main.Main
+author: Casjeken
+commands:
+  starter:
+    description: de starterkit
+    usage: /kit starter
+  Archer:
+    description: De Archerkit
+    usage: "/kit Archer"
